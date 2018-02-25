@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.hmn.Service.BookService;
 
 @Controller
+@RequestMapping("/board/")
 public class BookContoller {
 	public static final String BGROUP = "BD";
 	public static final String CGROUP = "BS";
