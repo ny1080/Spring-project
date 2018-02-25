@@ -4,8 +4,9 @@ import org.springframework.stereotype.Repository;
 
 import com.hmn.Domain.Book;
 
-
+@Repository
 public interface BookDao {  
+	
 	Book findByBookCode (String bookCode);
 
 	void save(Book book);

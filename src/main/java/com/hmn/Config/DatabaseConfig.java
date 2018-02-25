@@ -36,7 +36,7 @@ public abstract class DatabaseConfig {
 @Lazy
 @MapperScan(basePackages = {"com.hmn.Dao"})
 @EnableTransactionManagement
-class eduDataSourceConfig extends DatabaseConfig {
+class hmnDataSourceConfig extends DatabaseConfig {
 
 	@Autowired 
 	private ApplicationContext applicationContext;
