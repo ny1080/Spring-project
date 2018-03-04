@@ -27,16 +27,6 @@
 		buydate DESC  
 	</select>
 
-<!-- 	<select id="listBook" parameterType="Dto" resultType="Book"> -->
-<!-- 		SELECT -->
-<!-- 		*, -->
-<!-- 		(SELECT COUNT(*) FROM book) AS count -->
-<!-- 		FROM book -->
-<!-- 		ORDER BY -->
-<!-- 		buydate DESC -->
-<!-- 	</select> -->
-
-
 	<delete id="deleteBook" parameterType="String">
 		DELETE FROM book
 		WHERE

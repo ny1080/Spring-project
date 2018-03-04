@@ -8,7 +8,7 @@
 	</settings>
 	<typeAliases>
 <!-- 		<typeAlias type="com.Library.Domain.Member" alias="Member" /> -->
-<!-- 		<typeAlias type="com.Library.Domain.Board" alias="Board" /> -->
+		<typeAlias type="com.hmn.Domain.Board" alias="Board" />
 		<typeAlias type="com.hmn.Domain.Book" alias="Book" />
 <!-- 		<typeAlias type="com.Library.Domain.Content" alias="Content" /> -->
 <!-- 		<typeAlias type="com.Library.Domain.Dto" alias="Dto" /> -->
