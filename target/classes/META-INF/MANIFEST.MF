@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Spring-project
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Min
+Built-By: user
 Implementation-Vendor-Id: com.hmn
-Build-Jdk: 1.8.0_151
+Build-Jdk: 1.8.0_161
 Implementation-URL: http://projects.spring.io/spring-boot/Spring-proje
  ct/
 Created-By: Maven Integration for Eclipse
